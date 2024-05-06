@@ -7,3 +7,5 @@ The aim of the project to construct the Neural Machine Translation model from En
 * Google colab Pro Version
 * Google Drive
 * GPU Module (L4 or G4 Module)
+
+
