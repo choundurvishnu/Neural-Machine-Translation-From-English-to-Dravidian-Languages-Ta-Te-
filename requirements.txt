@@ -1,5 +1,5 @@
 Python==3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
-transformers==4.40.1
+transformers==4.48.0
 sentencepiece==0.1.99
 datasets==2.19.1
 sacrebleu==2.4.2
